@@ -1,11 +1,51 @@
 {
-  "posts": [
+  "questions": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Pick some food",
+      "answers": ['caesar salad', 'nuggets', 'burger', 'chicken sandwich']
+    },
+    {
+      "id": 2,
+      "title": "Pick a healthy choice",
+      "answers": ['fruit', 'salad', 'parfait', 'pasta salad']
+    },
+    {
+      "id": 3,
+      "title": "Pick a movie snack",
+      "answers": ['M&M’s', 'caramel popcorn', 'traditional popcorn', 'ice cream']
+    },
+    {
+      "id": 4,
+      "title": "Pick a fast-food spot",
+      "answers": ['Dunkin’ Donuts', 'Wendy’s', 'Burger King', 'McDonald’s']
+    },
+    {
+      "id": 5,
+      "title": "Pick some more food",
+      "answers": ['pasta', 'chicken', 'sandwich', 'pizza']
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "results": [
+  {
+    "id": 1,
+    "name": "Stern",
+    "description": "You’re a very serious person!"
+  },
+  {
+    "id": 2,
+    "name": "Funny",
+    "description": "You have a wicked sense of humour!"
+  },
+  {
+    "id": 3,
+    "name": "Outgoing",
+    "description": "You’re a perfect mix of funny, chill, and intelligence!"
+  },
+  {
+    "id": 4,
+    "name": "Shy",
+    "description": "You’re shy and reserved!"
   }
+ ]
 }
